@@ -1,0 +1,2 @@
+MAX5456 -  6 pc : Stereo Audio Taper Potentiometers with Pushbutton Interface
+DS2482 - 6 x 2.68 euro  Single-Channel 1-Wire Master / I²C to 1-Wire Bridge
