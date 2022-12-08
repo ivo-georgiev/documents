@@ -1,2 +1,6 @@
 MAX5456 -  6 pc : Stereo Audio Taper Potentiometers with Pushbutton Interface
-DS2482 - 6 x 2.68 euro  Single-Channel 1-Wire Master / I²C to 1-Wire Bridge
+DS2482 - 6 x 2.68 $  Single-Channel 1-Wire Master / I²C to 1-Wire Bridge
+MAX13036 2 x 7.2 $ Contact Monitor and Level Shifter Monitors Remote Switches and Consumes a Meager 17µA Supply Curren (production)
+MAX1841EUB+ https://eu.mouser.com/datasheet/2/256/MAX1840-MAX1841-1308121.pdf
+TL082 2 x OA
+MAX6953EPL 10+ x 8,35 $ Led Matrix driver catode row (Obsolete )
